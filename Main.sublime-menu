@@ -1,0 +1,13 @@
+[
+	{
+	    "id" : "tools",
+	    "children":
+	    [
+	    	{
+	    		"id": "kill",
+	    		"caption": "Kill",
+	    		"command": "kill"
+	    	}
+	    ]
+	}
+]

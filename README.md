@@ -1,2 +1,3 @@
 # kill
-SublimeText plugin to kill a rogue process.
+
+A SublimeText plugin to kill a rogue process.
